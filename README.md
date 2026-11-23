@@ -35,6 +35,21 @@ Same dashboard with REAL numbers               ← calculated by Power BI, on yo
 ```
 
 ---
+## Preview DashBoard Generated Using Fake Data
+
+<img width="1300" height="740" alt="D_final_1" src="https://github.com/user-attachments/assets/47d747af-bee9-4a51-b270-89c1db062aa3" />
+<img width="1308" height="732" alt="D_final_2" src="https://github.com/user-attachments/assets/c9200533-c1ec-486c-8bb0-b498e68024a2" />
+
+
+## Preview DashBoard Generated Using Real Data
+
+<img width="1308" height="722" alt="D_FINA_FINAL_1" src="https://github.com/user-attachments/assets/6404d660-538c-4824-af20-f0f92b272dcc" />
+<img width="1305" height="730" alt="D_FINA_FINAL_2" src="https://github.com/user-attachments/assets/8295a781-fc94-476c-a7a4-220d17482439" />
+
+
+
+
+
 
 ## What you need
 
