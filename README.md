@@ -62,7 +62,6 @@ Same dashboard with REAL numbers               ← calculated by Power BI, on yo
 | **Node.js LTS** (22 or 24) | Runs Microsoft's report tool |
 | **Python 3.10+** | Runs the fake-data tool |
 
-> You can use **Claude Code** instead of GitHub Copilot as the agent. See "Using Claude Code" at the end.
 
 ---
 
